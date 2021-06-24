@@ -1,0 +1,12 @@
+@import 'styless.css';
+
+.Restaurant-Images {
+	width: 20%;
+}
+
+#Menu-Bar{
+	background-color: #FAF3ED;
+	padding-left: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}

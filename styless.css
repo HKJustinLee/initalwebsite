@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 16px;
+	font-family: 'Gabriela', serif;
+
+}
+
+img {
+	width: 100%;
+
+}
+p{`
+	font-size: 2em;
+
+}
+body{
+	background-color: #FAECE0;
+	color: #4D433B;
+}
+
+#Menu-Bar{
+	background-color: #FAF3ED;
+	padding-left: 25px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+a{
+	text-decoration: none;
+	color: #4D433B;
+	font-size: 25px;
+	padding-right: 10px;
+}
+
+h1{
+	text-align: center;
+	font-size: 50px;
+}
+
+p{
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
